@@ -50,3 +50,11 @@ pip install flask
 
 # Run the app
 flask run
+```
+---
+
+
+## 🚀 Video Demo
+
+If you're short on time, you can find a video demonstration of the program here:
+[Video Demonstration](https://www.youtube.com/watch?v=CEX_lItyBhw)
